@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rishabh Tripathi 👋
+A passionate frontend developer and DSA enthusiast from Delhi 🇮🇳
 
-<!--
-**Rishabh503/Rishabh503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,tailwind,cpp,java,python,mongodb,git)
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- 🔗 [DSA Manager](https://dsa-frontend-one.vercel.app/) – Track DSA progress with dashboard, auth, and more
+- 🔗 [Tamasha Bhawan](https://tamasha-bhawan.vercel.app/) – Learning platform frontend with EmailJS
+- 🔗 [Task Manager](https://todo-neon-psi.vercel.app/calendar) – Minimal to-do app with localStorage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications
+- ReactJS - Coding Shuttle
+- 20+ Google Cloud Skill Badges [Profile](https://www.cloudskillsboost.google/public_profiles/84b424f4-a56f-4816-940c-97d167eae8ff)
+- Data Science - IIT Madras
+
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/rishabh-tripathi-9985aa319/) • [Leetcode](https://leetcode.com/u/Rishabh2906/) • [Portfolio](https://rishabh-tripathi-dev.vercel.app/)
